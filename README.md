@@ -2,7 +2,7 @@
 
 To track my progress while learning JavaScript.
 
-![JS Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS Logo" width="120" height="120"/>
 
 ## 📅 Week 1
 
