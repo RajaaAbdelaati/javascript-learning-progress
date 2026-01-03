@@ -2,6 +2,8 @@
 
 To track my progress while learning JavaScript.
 
+![JS Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+
 ## 📅 Week 1
 
 - [x] 1 - Introduction And What Is JavaScript?
