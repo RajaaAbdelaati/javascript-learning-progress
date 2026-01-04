@@ -12,8 +12,21 @@ To track my progress while learning JavaScript.
 - [x] 4 - Work With Chrome Developer Tools
 - [x] 5 - Where To Put The Code?
 - [x] 6 - Comments And Bad Practices
-- [ ] 7 - Output To Screen
-- [ ] 8 - Console Methods And Styling And WebAPI
-- [ ] 9 - What Is ECMAScript?
+- [x] 7 - Output To Screen
+- [x] 8 - Console Methods And Styling And WebAPI
+- [x] 9 - What Is ECMAScript?
+
+---
+
+## 📅 Week 2
+
+- [ ] 10 - Data Types And typeof Operator
+- [ ] 11 - Variables Introduction
+- [ ] 12 - Identifiers Name Conventions And Rules
+- [ ] 13 - Var, Let, Const Compare
+- [ ] 14 - String Syntax And Character Escape Sequences
+- [ ] 15 - Concatenation
+- [ ] 16 - Template Literals (Template Strings)
+- [ ] 17 - Variables And Concatenation Challenge
 
 ---
