@@ -15,6 +15,9 @@ To track my progress while learning JavaScript.
 - [x] 7 - Output To Screen
 - [x] 8 - Console Methods And Styling And WebAPI
 - [x] 9 - What Is ECMAScript?
+- [x] - Completed Week 1 JavaScript Assignment
+- 🔗 Assignment Link:
+  - https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/
 
 ---
 
