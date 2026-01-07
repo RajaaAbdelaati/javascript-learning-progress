@@ -23,9 +23,9 @@ To track my progress while learning JavaScript.
 
 ## 📅 Week 2
 
-- [ ] 10 - Data Types And typeof Operator
-- [ ] 11 - Variables Introduction
-- [ ] 12 - Identifiers Name Conventions And Rules
+- [x] 10 - Data Types And typeof Operator
+- [x] 11 - Variables Introduction
+- [x] 12 - Identifiers Name Conventions And Rules
 - [ ] 13 - Var, Let, Const Compare
 - [ ] 14 - String Syntax And Character Escape Sequences
 - [ ] 15 - Concatenation
