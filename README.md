@@ -26,9 +26,9 @@ To track my progress while learning JavaScript.
 - [x] 10 - Data Types And typeof Operator
 - [x] 11 - Variables Introduction
 - [x] 12 - Identifiers Name Conventions And Rules
-- [ ] 13 - Var, Let, Const Compare
-- [ ] 14 - String Syntax And Character Escape Sequences
-- [ ] 15 - Concatenation
+- [x] 13 - Var, Let, Const Compare
+- [x] 14 - String Syntax And Character Escape Sequences
+- [x] 15 - Concatenation
 - [ ] 16 - Template Literals (Template Strings)
 - [ ] 17 - Variables And Concatenation Challenge
 
