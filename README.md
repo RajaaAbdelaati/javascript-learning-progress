@@ -36,4 +36,14 @@ To track my progress while learning JavaScript.
   - https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/
 - 🔗 Challenge Link:
   - https://elzero.org/javascript-2021-variable-and-concatenation-challenge/
+
+---
+
+## 📅 Week 3
+- [ ] 18 - Arithmetic Operators
+- [ ] 19 - Unary Plus And Negation Operators
+- [ ] 20 - Type Coercion
+- [ ] 21 - Assignment Operators
+- [ ] 22 - Operators Challenges
+
 ---
