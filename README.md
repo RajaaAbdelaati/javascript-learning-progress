@@ -29,7 +29,7 @@ To track my progress while learning JavaScript.
 - [x] 13 - Var, Let, Const Compare
 - [x] 14 - String Syntax And Character Escape Sequences
 - [x] 15 - Concatenation
-- [ ] 16 - Template Literals (Template Strings)
-- [ ] 17 - Variables And Concatenation Challenge
+- [x] 16 - Template Literals (Template Strings)
+- [x] 17 - Variables And Concatenation Challenge
 
 ---
