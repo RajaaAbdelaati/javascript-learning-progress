@@ -31,5 +31,9 @@ To track my progress while learning JavaScript.
 - [x] 15 - Concatenation
 - [x] 16 - Template Literals (Template Strings)
 - [x] 17 - Variables And Concatenation Challenge
-
+- [x] - Completed Week 2 JavaScript Assignment
+- 🔗 Assignment Link:
+  - https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/
+- 🔗 Challenge Link:
+  - https://elzero.org/javascript-2021-variable-and-concatenation-challenge/
 ---
