@@ -40,8 +40,9 @@ To track my progress while learning JavaScript.
 ---
 
 ## 📅 Week 3
-- [ ] 18 - Arithmetic Operators
-- [ ] 19 - Unary Plus And Negation Operators
+
+- [x] 18 - Arithmetic Operators
+- [x] 19 - Unary Plus And Negation Operators
 - [ ] 20 - Type Coercion
 - [ ] 21 - Assignment Operators
 - [ ] 22 - Operators Challenges
