@@ -43,8 +43,8 @@ To track my progress while learning JavaScript.
 
 - [x] 18 - Arithmetic Operators
 - [x] 19 - Unary Plus And Negation Operators
-- [ ] 20 - Type Coercion
-- [ ] 21 - Assignment Operators
-- [ ] 22 - Operators Challenges
+- [x] 20 - Type Coercion
+- [x] 21 - Assignment Operators
+- [x] 22 - Operators Challenges
 
 ---
