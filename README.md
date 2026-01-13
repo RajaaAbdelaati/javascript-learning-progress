@@ -46,5 +46,10 @@ To track my progress while learning JavaScript.
 - [x] 20 - Type Coercion
 - [x] 21 - Assignment Operators
 - [x] 22 - Operators Challenges
+- [x] - Completed Week 3 JavaScript Assignment
+- 🔗 Assignment Link:
+  - https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/
+- 🔗 Challenge Link:
+  - https://elzero.org/javascript-2021-operators-challenges/
 
 ---
