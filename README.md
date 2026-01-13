@@ -53,3 +53,23 @@ To track my progress while learning JavaScript.
   - https://elzero.org/javascript-2021-operators-challenges/
 
 ---
+
+## 📅 Week 4
+
+- [ ] 23 - Number
+- [ ] 24 - Number Methods
+- [ ] 25 - Math Object
+- [ ] 26 - Number Challenge
+- [ ] 27 - String Methods Part 1
+- [ ] 28 - String Methods Part 2
+- [ ] 29 - String Methods Part 3
+- [ ] 30 - String Challenge
+- [ ] - Completed Week 4 JavaScript Assignment
+- 🔗 Assignment Link:
+  - https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/
+  - https://elzero.org/javascript-bootcamp-assignments-lesson-from-027-to-030/
+- 🔗 Challenge Link:
+  - https://elzero.org/javascript-2021-number-challenge/
+  - https://elzero.org/javascript-2021-string-challenge/
+
+---
